@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Forweb s.c. PL Geofeed,lastupdated (rfc3339): 2025-04-14T13:58:56+02:00
+# Forweb s.c. PL Geofeed,lastupdated (rfc3339): 2025-04-22T13:54:14+02:00
 78.155.127.14/32,PL,PL-14,Legionowo,
 78.155.127.47/32,PL,PL-14,Legionowo,
 78.155.127.132/32,PL,PL-14,Legionowo,
@@ -128,6 +128,7 @@
 95.175.16.30/31,PL,PL-10,Lodz,
 95.175.16.33/32,PL,PL-10,Lodz,
 95.175.16.34/31,PL,PL-10,Lodz,
+95.175.16.37/32,PL,PL-10,Lodz,
 95.175.16.39/32,PL,PL-10,Lodz,
 95.175.16.40/31,PL,PL-10,Lodz,
 95.175.16.42/32,PL,PL-10,Lodz,
