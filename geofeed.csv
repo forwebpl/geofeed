@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Forweb s.c. PL Geofeed,lastupdated (rfc3339): 2025-05-01T04:05:01+02:00
+# Forweb s.c. PL Geofeed,lastupdated (rfc3339): 2025-05-07T12:15:15+02:00
 78.155.127.14/32,PL,PL-14,Legionowo,
 78.155.127.47/32,PL,PL-14,Legionowo,
 78.155.127.132/32,PL,PL-14,Legionowo,
@@ -34,6 +34,7 @@
 95.175.23.5/32,PL,PL-14,Wieliszew,
 95.175.23.8/30,PL,PL-14,Wieliszew,
 95.175.23.12/32,PL,PL-14,Wieliszew,
+95.175.23.14/32,PL,PL-14,Wieliszew,
 95.175.23.24/32,PL,PL-14,Wieliszew,
 95.175.23.67/32,PL,PL-14,Wieliszew,
 95.175.23.68/31,PL,PL-14,Wieliszew,
@@ -389,6 +390,7 @@
 91.193.97.61/32,PL,PL-10,Koluszki,
 95.175.16.17/32,PL,PL-10,Koluszki,
 95.175.16.120/32,PL,PL-10,Koluszki,
+95.175.16.129/32,PL,PL-10,Koluszki,
 95.175.17.57/32,PL,PL-10,Koluszki,
 95.175.17.125/32,PL,PL-10,Koluszki,
 95.175.17.143/32,PL,PL-10,Koluszki,
