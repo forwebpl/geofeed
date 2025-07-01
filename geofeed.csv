@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Forweb s.c. PL Geofeed,lastupdated (rfc3339): 2025-06-01T04:05:01+02:00
+# Forweb s.c. PL Geofeed,lastupdated (rfc3339): 2025-07-01T04:05:01+02:00
 78.155.127.14/32,PL,PL-14,Legionowo,
 78.155.127.47/32,PL,PL-14,Legionowo,
 95.175.23.75/32,PL,PL-14,Legionowo,
@@ -64,9 +64,7 @@
 95.175.23.134/31,PL,PL-14,Wieliszew,
 95.175.23.136/29,PL,PL-14,Wieliszew,
 95.175.23.148/30,PL,PL-14,Wieliszew,
-95.175.23.152/31,PL,PL-14,Wieliszew,
-95.175.23.155/32,PL,PL-14,Wieliszew,
-95.175.23.156/30,PL,PL-14,Wieliszew,
+95.175.23.152/29,PL,PL-14,Wieliszew,
 95.175.23.160/28,PL,PL-14,Wieliszew,
 95.175.23.176/32,PL,PL-14,Wieliszew,
 95.175.23.178/31,PL,PL-14,Wieliszew,
@@ -268,7 +266,6 @@
 95.175.17.147/32,PL,PL-10,Lodz,
 95.175.17.152/32,PL,PL-10,Lodz,
 95.175.17.155/32,PL,PL-10,Lodz,
-95.175.17.156/32,PL,PL-10,Lodz,
 95.175.17.165/32,PL,PL-10,Lodz,
 95.175.17.166/31,PL,PL-10,Lodz,
 95.175.17.168/32,PL,PL-10,Lodz,
@@ -286,7 +283,6 @@
 95.175.17.207/32,PL,PL-10,Lodz,
 95.175.17.208/31,PL,PL-10,Lodz,
 95.175.17.212/31,PL,PL-10,Lodz,
-95.175.17.215/32,PL,PL-10,Lodz,
 95.175.17.216/31,PL,PL-10,Lodz,
 95.175.17.220/31,PL,PL-10,Lodz,
 95.175.17.222/32,PL,PL-10,Lodz,
@@ -411,6 +407,7 @@
 95.175.17.193/32,PL,PL-10,Konstantynow Lodzki,
 95.175.17.218/32,PL,PL-10,Konstantynow Lodzki,
 95.175.20.103/32,PL,PL-10,Konstantynow Lodzki,
+95.175.16.68/32,PL,PL-24,Katowice,
 95.175.17.58/32,PL,PL-10,Rzgow,
 95.175.17.66/31,PL,PL-10,Rzgow,
 95.175.17.135/32,PL,PL-10,Rzgow,
