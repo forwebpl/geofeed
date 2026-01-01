@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Forweb s.c. PL Geofeed,lastupdated (rfc3339): 2025-12-01T04:05:01+01:00
+# Forweb s.c. PL Geofeed,lastupdated (rfc3339): 2026-01-01T04:05:02+01:00
 78.155.127.14/32,PL,PL-14,Legionowo,
 78.155.127.47/32,PL,PL-14,Legionowo,
 95.175.23.75/32,PL,PL-14,Legionowo,
@@ -162,7 +162,6 @@
 95.175.16.144/31,PL,PL-10,Lodz,
 95.175.16.147/32,PL,PL-10,Lodz,
 95.175.16.148/30,PL,PL-10,Lodz,
-95.175.16.152/32,PL,PL-10,Lodz,
 95.175.16.154/32,PL,PL-10,Lodz,
 95.175.16.156/30,PL,PL-10,Lodz,
 95.175.16.160/30,PL,PL-10,Lodz,
@@ -239,12 +238,12 @@
 95.175.17.96/31,PL,PL-10,Lodz,
 95.175.17.99/32,PL,PL-10,Lodz,
 95.175.17.102/31,PL,PL-10,Lodz,
-95.175.17.105/32,PL,PL-10,Lodz,
 95.175.17.106/31,PL,PL-10,Lodz,
 95.175.17.109/32,PL,PL-10,Lodz,
 95.175.17.110/32,PL,PL-10,Lodz,
 95.175.17.112/30,PL,PL-10,Lodz,
 95.175.17.116/31,PL,PL-10,Lodz,
+95.175.17.119/32,PL,PL-10,Lodz,
 95.175.17.121/32,PL,PL-10,Lodz,
 95.175.17.122/32,PL,PL-10,Lodz,
 95.175.17.128/31,PL,PL-10,Lodz,
@@ -410,7 +409,6 @@
 95.175.23.7/32,PL,PL-14,Jablonna,
 95.175.23.123/32,PL,PL-14,Jablonna,
 95.175.23.125/32,PL,PL-14,Jablonna,
-95.175.23.240/32,PL,PL-14,Jablonna,
 95.175.23.23/32,PL,PL-14,Serock,
 95.175.23.71/32,PL,PL-14,Serock,
 95.175.23.73/32,PL,PL-14,Serock,
